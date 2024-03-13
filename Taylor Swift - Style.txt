@@ -18,5 +18,14 @@ And when we go crashing down, we come back every time
 And I got that red lip classic thing that you like
 >>>>>>> f1baa16854cf0949c2d7f0a940104d10f07ece08
 >>>>>>> 3270e5c5f7171c2cbb0ca391987f36e21e594295
+<<<<<<< HEAD
 So it goes
 
+=======
+
+<<<<<<< HEAD
+And I got that good girl faith and a tight little skirt
+=======
+And when we go crashing down, we come back every time
+>>>>>>> 35ce5a2da48ada7c3cab5dbebc4853e4662e9c53
+>>>>>>> 1a09561c0b16425304bdb25002b39422aa9102de
