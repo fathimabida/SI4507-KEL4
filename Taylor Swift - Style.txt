@@ -18,4 +18,22 @@ And when we go crashing down, we come back every time
 And I got that red lip classic thing that you like
 >>>>>>> f1baa16854cf0949c2d7f0a940104d10f07ece08
 >>>>>>> 3270e5c5f7171c2cbb0ca391987f36e21e594295
+<<<<<<< HEAD
 'Cause we never go out of style, we never go out of style
+=======
+<<<<<<< HEAD
+He can't keep his wild eyes on the road, mm
+=======
+<<<<<<< HEAD
+So it goes
+
+=======
+
+<<<<<<< HEAD
+And I got that good girl faith and a tight little skirt
+=======
+And when we go crashing down, we come back every time
+>>>>>>> 35ce5a2da48ada7c3cab5dbebc4853e4662e9c53
+>>>>>>> 1a09561c0b16425304bdb25002b39422aa9102de
+>>>>>>> a3c4edaa94e8ef4117147fa089ef555f9b66fb83
+>>>>>>> fad0ce155ba715cb30945c30ffb17a8ea33a0f76
